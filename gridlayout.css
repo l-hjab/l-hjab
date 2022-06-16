@@ -1,0 +1,66 @@
+﻿*
+{
+	margin:0px;
+	padding:0px;
+}
+body{
+	display:flex;
+	min-height:100vh;
+	place-content:center;
+}
+.main{
+	background:cover;
+	display:grid;
+	grid-template-areas:
+	'a a b'
+	'c d d'
+	'c d d'
+	;
+	position:absolute;
+	width:100%;
+	min-height:100vh;
+	margin:5px;
+	background-color:navyblue;
+	place-content:center;
+}
+.A{
+	padding:1.5cm;
+	background-color:red;
+	grid-area:a;
+	margin:5px;
+	width:150px;
+
+
+}
+
+.B{
+	padding:1.5cm;
+	background-color:orange;
+	grid-area:b;
+	margin:5px;
+}
+.C{
+	padding:1.9cm;
+	background-color:green;
+	grid-area:c;
+	height:20px;
+}
+.D{
+	padding:-3cm;
+	grid-area:d;
+	height:20px;
+}
+.D .d{
+	padding:0.9cm;
+	margin:5px;
+	background-color:deepskyblue;
+	opacity:1px;
+	height:5px;
+
+}
+
+.D .e{
+	padding:1cm;
+	margin:5px;
+	background-color:deepskyblue;
+}
