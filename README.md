@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daphine
-- 👀 I’m interested in ...,web development,python,java,javasript
-- 🌱 I’m currently learning ...Python,Javascipt,Java
+- 👀 I’m interested in ...,web development,python,java,javasript,game development
+- 🌱 I’m currently learning ...Python,Javascipt,Java,R,data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...daphydaphine@gmail.com
 
