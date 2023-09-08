@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daphine
 - 👀 I’m interested in ...,web development (Fullstack developer),python,java,javasript,game development and Web designing
 - 🌱 I’m currently learning ...Python,Javascipt,Java,R,data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Mobile proramming and CyberSecurity projects
 - 📫 How to reach me ...daphydaphine@gmail.com
 
 <!---
