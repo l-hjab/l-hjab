@@ -1,4 +1,4 @@
-- 👋 Hi, Daphine Nekesa
+- 👋 Hi, Longinius Lusweti
 - 👀 I’m interested in ...,web development (Fullstack developer),python,java,javasript,game development and Web designing
 - 🌱 I’m currently learning ...Python,Javascipt,R,data science
 - 💞️ I’m looking to collaborate on Mobile proramming and CyberSecurity projects
